@@ -9,13 +9,7 @@
 
 ---
 # 💫 About Me:
-🚀 Building testnet front-end & back-end apps (because bugs love me)<br>  
-🔍 Reverse engineering stuff—mostly to see how it breaks<br>  
-⚡ Automating everything, including things that don’t need automation<br><br>  
-🤝 Let’s collaborate on blockchain, automation & world domination<br>  
-📚 Currently learning Python, JavaScript & Chinese (so I can debug in multiple languages)<br>  
-💡 Ask me about testnets, scripting & how to look busy while coding<br><br>  
-🎉 Fun fact: My scripts run smoother than my life decisions 😆
+🚀 Building testnet front-end & back-end apps (because bugs love me)<br>🔍 Reverse engineering stuff—mostly to see how it breaks<br>⚡ Automating everything, including things that don’t need automation<br><br>🤝 Let’s collaborate on blockchain, automation & world domination<br>📚 Currently learning Python, JavaScript & Chinese (so I can debug in multiple languages)<br>💡 Ask me about testnets, scripting & how to look busy while coding<br><br>🎉 Fun fact: My scripts run smoother than my life decisions 😆
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Zain)  
